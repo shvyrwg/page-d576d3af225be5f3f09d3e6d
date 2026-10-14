@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6a3a42c30445c05c2b348caa",
+  "owner": "shvyrwg",
+  "repo": "page-d576d3af225be5f3f09d3e6d",
+  "title": "TG号批发",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d576d3af225be5f3f09d3e6d",
+      "a": "TG号批发",
+      "b": "",
+      "entity": "TG号批发",
+      "brand": "TG号批发",
+      "separator": "",
+      "path": "index.html",
+      "hash": "463a9143d9285be644cbb8660b430e7686663438b6be51b69b53a42e08de98de",
+      "content": {
+        "keyword1": "TG号批发",
+        "keyword2": "",
+        "primary_entity": "TG号批发",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号批发提供稳定VPN加速服务，月付流量包从¥15起，支持多设备，官网安全下载客户端。",
+          "AI_DESCRIPTION": "TG号批发提供稳定VPN加速服务，月付流量包从¥15起，支持多设备，官网安全下载客户端。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #003366;\n            --cyan: #00BFFF;\n        }\n        body {\n            font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            margin: 0;\n            padding: 0;\n            background-color: #f8f9fa;\n        }\n        .container {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 0 20px;\n        }\n        header {\n            background: linear-gradient(135deg, var(--blue), #1e40af);\n            color: white;\n            padding: 2rem 0;\n            text-align: center;\n        }\n        h1 {\n            font-size: 2.8rem;\n            margin: 0 0 0.5rem;\n        }\n        .tagline {\n            font-size: 1.4rem;\n            opacity: 0.9;\n        }\n        main {\n            padding: 2rem 0;\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        h2 {\n            color: var(--blue);\n            font-size: 2rem;\n            border-bottom: 3px solid var(--cyan);\n            padding-bottom: 0.5rem;\n            margin-bottom: 1.5rem;\n        }\n        p {\n            font-size: 1.1rem;\n            margin-bottom: 1rem;\n        }\n        .hero {\n            background: var(--blue);\n            color: white;\n            padding: 4rem 2rem;\n            text-align: center;\n            border-radius: 8px;\n            margin-bottom: 3rem;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 1.5rem;\n        }\n        .step {\n            display: flex;\n            align-items: flex-start;\n            gap: 1rem;\n            background: white;\n            padding: 1.5rem;\n            border-radius: 8px;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n        }\n        .step-number {\n            background: var(--cyan);\n            color: white;\n            width: 40px;\n            height: 40px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            flex-shrink: 0;\n        }\n        table {\n            width: 100%;\n            border-collapse: collapse;\n            margin-bottom: 2rem;\n        }\n        th, td {\n            padding: 1rem;\n            text-align: left;\n            border-bottom: 1px solid #ddd;\n        }\n        th {\n            background: var(--blue);\n            color: white;\n            font-weight: bold;\n        }\n        tr:nth-child(even) {\n            background: #f0f4f8;\n        }\n        .plan {\n            background: white;\n            border: 2px solid #ddd;\n            padding: 1.5rem;\n            border-radius: 8px;\n            margin-bottom: 1rem;\n        }\n        .plan.featured {\n            border-color: var(--cyan);\n            position: relative;\n        }\n        .plan.featured::after {\n            content: \"推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: var(--cyan);\n            color: white;\n            padding: 0.25rem 1rem;\n            border-radius: 20px;\n            font-size: 0.9rem;\n        }\n        .faq {\n            background: white;\n            border-radius: 8px;\n            overflow: hidden;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n        }\n        details {\n            border-bottom: 1px solid #eee;\n        }\n        summary {\n            padding: 1rem;\n            font-weight: bold;\n            cursor: pointer;\n            background: #f8f9fa;\n        }\n        summary:hover {\n            background: #e9ecef;\n        }\n        .footer {\n            background: var(--blue);\n            color: white;\n            padding: 2rem;\n            text-align: center;\n        }\n        .footer a {\n            color: var(--cyan);\n            text-decoration: none;\n        }\n    </style>\n\n\n    <header>\n        <div class=\"container\">\n            <h1>TG号批发</h1>\n            <p class=\"tagline\">稳定VPN加速器 | 客户端安全下载</p>\n        </div>\n    </header>\n    <main>\n        <div class=\"container\">\n            <div class=\"hero\">\n                <h2>畅享高速网络加速</h2>\n                <p>TG号批发为您提供专业稳定的VPN加速服务，从基础流量到企业级方案，应有尽有。</p>\n            </div>\n            <section>\n                <h2>品牌简介</h2>\n                <p>TG号批发是专注于VPN加速的优质品牌，提供稳定高速线路和便捷的客户端下载。无论个人用户还是企业团队，我们都能为您提供合适的加速方案。</p>\n                <p>支持7x24在线服务，官网安全下载客户端，助力您轻松解锁全球网络内容。</p>\n            </section>\n            <section>\n                <h2>使用场景</h2>\n                <p>适用于需要高速稳定连接的用户场景：游戏加速优化、视频流媒体解锁、全球节点访问加速等。无论在家办公还是日常娱乐，TG号批发都能满足您的网络需求。</p>\n            </section>\n            <section>\n                <h2>获取加速步骤</h2>\n                <div class=\"steps\">\n                    <div class=\"step\">\n                        <div class=\"step-number\">1</div>\n                        <div>\n                            <h3>访问官网</h3>\n                            <p>登录官网，了解最新套餐信息。</p>\n                        </div>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">2</div>\n                        <div>\n                            <h3>选择套餐</h3>\n                            <p>根据需求选择适合的流量包和设备支持。</p>\n                        </div>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">3</div>\n                        <div>\n                            <h3>支付完成</h3>\n                            <p>安全支付，享受便捷服务。</p>\n                        </div>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">4</div>\n                        <div>\n                            <h3>下载客户端</h3>\n                            <p>官网下载最新版客户端，安装后立即使用。</p>\n                        </div>\n                    </div>\n                    <div class=\"step\">\n                        <div class=\"step-number\">5</div>\n                        <div>\n                            <h3>连接节点</h3>\n                            <p>输入订阅号，享受高速加速服务。</p>\n                        </div>\n                    </div>\n                </div>\n            </section>\n            <section>\n                <h2>套餐对比</h2>\n                \n                    \n                        \n                            项目\n                            基础版\n                            旗舰版\n                            团队版\n                        \n                    \n                    \n                        \n                            价格\n                            ¥15/月<br>按年付仅需 ¥150/年\n                            ¥35/月<br>按年付仅需 ¥350/年\n                            ¥85/月<br>按年付仅需 ¥850/年\n                        \n                        \n                            流量包\n                            100GB\n                            300GB\n                            1000GB\n                        \n                        \n                            设备支持\n                            3台\n                            5台\n                            20台\n                        \n                        \n                            流媒体解锁\n                            基础\n                            全节点原生\n                            VIP专属\n                        \n                        \n                            优化功能\n                            普通线路\n                            IPLC专线游戏加速\n                            企业定制路由\n                        \n                        \n                            支持服务\n                            普通工单\n                            7x24优先\n                            专属客户经理\n                        \n                    \n                \n            </section>\n            <section>\n                <h2>常见问题 FAQ</h2>\n                <div class=\"faq\">\n                    <details>\n                        <summary>什么是TG号批发？</summary>\n                        <p>TG号批发是一家专业的VPN加速服务提供商，专注于稳定高速的网络加速解决方案，提供便捷的客户端下载和多设备支持。</p>\n                    </details>\n                    <details>\n                        <summary>如何选择套餐？</summary>\n                        <p>根据您的流量需求和使用设备数量选择基础版、旗舰版或团队版套餐。</p>\n                    </details>\n                    <details>\n                        <summary>支持哪些设备？</summary>\n                        <p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</p>\n                    </details>\n                    <details>\n                        <summary>流量包如何使用？</summary>\n                        <p>每月有固定极速流量包，可用于高速上网、游戏和流媒体，超出流量可能需续费。</p>\n                    </details>\n                    <details>\n                        <summary>官网下载地址？</summary>\n                        <p>访问官网下载最新版客户端，安全可靠，安装后立即享受加速服务。</p>\n                    </details>\n                    <details>\n                        <summary>年付套餐有何优势？</summary>\n                        <p>年付可节省费用，并享受更稳定的服务支持。</p>\n                    </details>\n                </div>\n            </section>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer class=\"footer\">\n        <div class=\"container\">\n            <p>© 2024 TG号批发 | 友情链接 | 官网下载</p>\n            <p>稳定加速 | 安全下载</p>\n        </div>\n    </footer>\n\n",
+          "hash": "56c759a02ee27a74c35b190d332685c8966402325a6f75b9e7d8404584f584a4",
+          "seo": {
+            "title": "TG号批发 - 稳定VPN加速器，客户端下载官网",
+            "keywords": "TG号批发,VPN加速器,机场,客户端下载,流量包,稳定加速",
+            "description": "TG号批发提供稳定VPN加速服务，月付流量包从¥15起，支持多设备，官网安全下载客户端。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "piyaji.cn",
+    "host": "p-0f5631635e.piyaji.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ab32ba8149f92b88354b8a52eacbe2214b64133ee2efa3b9916e7e4094524267",
+    "sitemap.xml": "75e862183fc80202f7f3945eb2ab9a65f95a22fad64c6c747b86fc273af13989",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6502262a1538acec46a525a421044434e5f836e1d61a5e17ca3c2d8c35a5ed3c",
+    "robots.txt": "3f906ee43427b05d97d5655b2bd2a9c8fa06c8ded3cba1f2b231ff89181cea55",
+    "2af73de0866568104d0a91bfc35b3e36.txt": "fb62087bc92dfccc4b9a0fbc1b9ddfaeab71f9c2ee12f22c93ea4b8b7917219e"
+  },
+  "revision": "012cc3f803644a2c4378fc4012f3c417f7e53d679d5e7278fa5a5c31d7bab196"
+}

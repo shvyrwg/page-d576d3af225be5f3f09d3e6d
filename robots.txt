@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-0f5631635e.piyaji.cn/sitemap.xml
